@@ -451,7 +451,7 @@ section {
   line-height: 0;
 }
 #about .container p{
-  font-family: Copperplate, Papyrus, fantasy;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 24px;
 }
 .about .content p:last-child {
